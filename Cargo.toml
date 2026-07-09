@@ -1,0 +1,13 @@
+[package]
+name = "ladrc-no-std"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "no_std LADRC controllers for embedded Rust"
+readme = "README.md"
+repository = "https://github.com/antonsterkhov/ladrc-no-std"
+documentation = "https://docs.rs/ladrc-no-std"
+keywords = ["ladrc", "control", "embedded", "no-std", "observer"]
+categories = ["embedded", "no-std", "algorithms", "science::robotics"]
+
+[dependencies]
